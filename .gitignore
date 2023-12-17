@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (if using instance folder)
+instance/
+
+# Environment variables file
+.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency folders
+env/
+lib/
+lib64/
+bin/
+include/
+
+# Logs and databases
+*.log
+*.db
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
